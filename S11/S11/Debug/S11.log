@@ -1,0 +1,7 @@
+﻿  main.cpp
+  CP_Test.cpp
+c:\学习\大一下学习\软工\编程\s11\s11\cp_test.cpp(60): warning C4305: “=”: 从“double”到“float”截断
+c:\学习\大一下学习\软工\编程\s11\s11\cp_test.cpp(62): warning C4305: “=”: 从“double”到“float”截断
+  CP_Binary.cpp
+  正在生成代码...
+  S11.vcxproj -> C:\学习\大一下学习\软工\编程\S11\Debug\S11.exe

@@ -1,0 +1,9 @@
+test
+调用new
+调用new
+调用new
+调用delete
+调用delete
+调用delete
+调用delete
+Active
